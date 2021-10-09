@@ -27,4 +27,4 @@ This was a relatively simple project and it didn't take me so long. I do intend 
 </a> <br>
 
 ## Check It Out
-Live Site URL: [Live Site]()
+Live Site URL: [Live Site](https://tender-meninsky-27ca26.netlify.app/)
